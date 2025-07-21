@@ -40,7 +40,7 @@ R scripts and supporting files for generating figure and performing statistical 
 ### 📂 [data/SLR-data/](data/SLR-data/data-details.md)
 Extracted data, quantitative, and qualitative summaries from the SLR process.
 
-### 📄 [Paper.pdf](Paper.pdf)
+### 📄 Paper <!--[Paper.pdf](Paper.pdf)-->
 The preprint will be shared following approval. <!--The full paper, related to this artifact, describing the study's goals, methodology, analysis, and findings.-->
 
 ### 📄 [LICENSE](LICENSE) / [LICENSE-MIT](LICENSE-MIT)

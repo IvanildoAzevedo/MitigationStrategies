@@ -16,7 +16,7 @@ This script computes, through Fisher’s test and Phi Coefficient, the associati
 
 This output is linked to the **Figure 4** in the paper and supports part of the statistical analysis.
 
-<img src="https://github.com/IvanildoAzevedo/SLR2025/blob/main/data/scripts/heatmap.png" alt="Figure 4" style="width:60%;" />
+<img src="https://github.com/IvanildoAzevedo/MitigationStrategies/blob/main/data/scripts/heatmap.jpg" alt="Figure 4" style="width:60%;" />
 
 
 
